@@ -1,6 +1,6 @@
 package com.ramshteks.as3.vars_holder 
 {
-	import ramshteks.as3.utils.interfaces.IVarsHolder;
+
 	/**
 	 * ...
 	 * @author Shirobok Pavel (ramshteks@gmail.com)
@@ -28,7 +28,7 @@ package com.ramshteks.as3.vars_holder
 		
 		public function hasValue(name:String):Boolean 
 		{
-			
+			return false;
 		}
 		
 	}
