@@ -22,6 +22,7 @@ package com.ramshteks.as3
 			for each(var p:String in args) {
 				res = res.replace(regexVar, p);
 			}
+			
 			return res;
 		}
 		
